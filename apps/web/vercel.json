@@ -1,6 +1,4 @@
 {
-    "builds": [
-      { "src": "package.json", "use": "@vercel/next" }
-    ]
-  }
-  
+  "framework": "nextjs",
+  "outputDirectory": ".next"
+}
