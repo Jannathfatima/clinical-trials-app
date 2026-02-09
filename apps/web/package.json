@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.0.0",
-    "@clinical-trials-app/env": "*",
+    "@clinical-trials-app/env": "file:../../packages/env",
     "@tanstack/react-form": "^1.27.3",
     "babel-plugin-react-compiler": "^1.0.0",
     "class-variance-authority": "^0.7.1",
@@ -27,7 +27,7 @@
     "zod": "^4.1.13"
   },
   "devDependencies": {
-    "@clinical-trials-app/config": "*",
+    "@clinical-trials-app/config": "file:../../packages/config",
     "@tailwindcss/postcss": "^4.1.10",
     "@types/node": "^20",
     "@types/react": "^19.2.7",
