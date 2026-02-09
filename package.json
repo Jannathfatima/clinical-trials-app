@@ -16,6 +16,7 @@
   "dependencies": {
     "@clinical-trials-app/env": "*",
     "dotenv": "^17.2.2",
+    "openai": "^6.18.0",
     "zod": "^4.1.13"
   },
   "devDependencies": {
